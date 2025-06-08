@@ -1,0 +1,40 @@
+﻿namespace TheReplacement.Metaclone.Api.Constants
+{
+    public enum Platform
+    {
+        NES = 1,
+        SNES,
+        N64,
+        GC,
+        Wii,
+        WiiU,
+        Switch,
+        Switch2,
+        PlayStation,
+        PlayStation2,
+        PlayStation3,
+        PlayStation4,
+        PlayStation5,
+        XBox,
+        XBox360,
+        XBoxOne,
+        XBoxSeries,
+        SegaMasterSystem,
+        SegaGenesis,
+        SegaCD,
+        SegaSaturn,
+        Dreamcast,
+        Gameboy,
+        GameboyColor,
+        GameboyAdvance,
+        NintendoDS,
+        Nintendo3DS,
+        PlayStationPortable,
+        PlaystationVita,
+        SegaGameGear,
+        Television,
+        Film,
+        Music,
+        Book
+    }
+}
